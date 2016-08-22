@@ -19,11 +19,11 @@
 	border-radius:0;
 	background-color:#000000;
 	margin:0;
-	
+
 }
 
 .active:hover{
-	
+
 	border-radius:20px
 }
 
@@ -35,17 +35,17 @@
 }
 
 .fully{
-	width:100%; 
+	width:100%;
 	height:100%;
 
-	
+
 }
 
 .subtitles{
 	position:absolute;
 	bottom:0;
 	right:30%;
-	
+
 }
 
 .subtitles>span{
@@ -69,7 +69,7 @@
 	padding-right:20pt;
 	padding-bottom:6pt;
 	padding-left:5pt;
-	
+
 }
 
 .table_body>tr>td>p{
